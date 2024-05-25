@@ -1,5 +1,6 @@
 # motion-cue-2.0
 
+
 # Motion Cue
 
 Motion Cue is a vision-based project that incorporates three main services:
@@ -14,6 +15,7 @@ Each service is designed to leverage computer vision for different applications,
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Steps File](#steps-file)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -91,6 +93,13 @@ pip install -r requirements_3.7.9.txt
    python virtual_mouse.py
    ```
 
+## Steps File
+
+Each service folder contains a `steps.txt` file with detailed instructions for setting up and running the specific service. Make sure to read through these files for additional guidance:
+- [Gesture Presentation steps.txt](gesture_presentation/steps.txt)
+- [Helmet Guardian steps.txt](helmet_guardian/steps.txt)
+- [Virtual Mouse steps.txt](virtual_mouse/steps.txt)
+
 ## Contributing
 Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
@@ -108,5 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out if you have any questions or need further assistance!
 
 Happy Coding!
-
-
