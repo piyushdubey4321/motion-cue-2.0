@@ -1,0 +1,3 @@
+To install all libraries in one click:
+
+pip install cvzone mediapipe streamlit streamlit-lottie simplejson

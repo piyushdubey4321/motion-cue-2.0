@@ -1,0 +1,4 @@
+1. Create a Virtual Environment using VS code in python version 3.7.9
+
+2. Install the necessary libraries using pip:
+pip install cvzone mediapipe autopy streamlit  
